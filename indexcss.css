@@ -27,3 +27,21 @@ body{
 	height: 20px;
 	cursor: pointer;
 }
+
+
+
+.form input[type="text"],input[type="number"]{
+border:none;
+	border-bottom:1px solid white;
+	background:transparent;
+	outline: none;
+	color: white;
+	font:30px;
+	cursor: context-menu;
+	}
+#headin{
+	padding-left: 100px;
+	margin: 0px;
+	color:orange;
+}
+
