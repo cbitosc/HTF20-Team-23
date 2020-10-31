@@ -1,0 +1,29 @@
+body{
+	background-image: url("");
+	background-size: cover;
+	background-position:center ;
+	background-repeat: no-repeat;
+	font-family: sans-serif;
+}
+.form{
+	background-color:black;
+	opacity: 78%; 
+	width: 320px;
+	box-sizing: border-box;
+	color:white;
+	height:520px;
+	position:relative;
+	transform: translate(180%,10%);
+	text-align:left;
+	padding:50px 30px; 
+	margin-top:0;
+	border-radius: 10px;
+}
+#submit{
+	border:none;
+	color:white;
+	background-color: orange;
+	border-radius: 20px;
+	height: 20px;
+	cursor: pointer;
+}
