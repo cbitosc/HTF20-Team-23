@@ -1,0 +1,23 @@
+body{
+	color:black;
+	background-color: white;
+}
+.form{
+	background-color:black;
+	opacity: 78%; 
+	box-sizing: border-box;
+	color:white;
+	text-align:left;
+	padding:50px 30px; 
+	margin-top:0;
+	width: auto;
+	border-radius: 10px;
+}
+#submit{
+	border:none;
+	color:white;
+	background-color: orange;
+	border-radius: 20px;
+	height: 20px;
+	cursor: pointer;
+}
