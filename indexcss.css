@@ -28,8 +28,6 @@ body{
 	cursor: pointer;
 }
 
-
-
 .form input[type="text"],input[type="number"]{
 border:none;
 	border-bottom:1px solid white;
@@ -44,4 +42,3 @@ border:none;
 	margin: 0px;
 	color:orange;
 }
-

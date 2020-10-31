@@ -1,15 +1,14 @@
-
 body{
 	color:black;
 	background-color: white;
 }
 .form{
 	background-color:black;
-	opacity: 78%;
+	opacity: 78%; 
 	box-sizing: border-box;
 	color:white;
 	text-align:left;
-	padding:50px 30px;
+	padding:50px 30px; 
 	margin-top:0;
 	width: auto;
 	border-radius: 10px;
@@ -22,4 +21,3 @@ body{
 	height: 20px;
 	cursor: pointer;
 }
-
