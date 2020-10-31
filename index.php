@@ -11,9 +11,7 @@ if(strlen($_POST['name'])>0)
 	return;
 
 }
-else{
-	$_SESSION['failure']="enter name";
-}
+
 ?>
 <!DOCTYPE html>
 <html>
